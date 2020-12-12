@@ -3,7 +3,7 @@
 ## 运行环境
 + Python3.6.X及其以上版本
 + 第三方库: click, requests
-+ 测试环境: Windows10
++ 测试环境: Windows10，Ubuntu 18.4
 
 ## 工具使用场景
 
